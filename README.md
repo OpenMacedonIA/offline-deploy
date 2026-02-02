@@ -1,5 +1,5 @@
 # WatermelonD Offline Deployment Kit
-
+> Actually this script is broken 
 ## Overview
 This toolkit allows you to install **WatermelonD** and its web interface **TangerineUI** on air-gapped systems or machines with restricted internet access. It works by pre-downloading all necessary dependencies (Debian packages, Python wheels, AI models) and the repository itself onto a USB drive.
 
